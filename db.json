@@ -7,7 +7,7 @@
     },
     {
     "brand": "Renault",
-    "models": "Captur"
+    "models": ["Captur","Clio"]
     }
         ]
 }
